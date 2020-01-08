@@ -1,7 +1,8 @@
+//这是世界最伟大的发明
 hello class  
 {
 	public static void main(String[] args) 
-	{
-		System.out.println("Hello World!");
+	{   //打印出世界最美好的代码
+		System.out.println("你好 杨夏!");
 	}
 }
